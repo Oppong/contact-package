@@ -6,13 +6,14 @@
     "authors": [
         {
             "name": "Oppong",
-            "email": "amponsahoppong@gmail.com"
+            "email": "amponsahoppong@gmail.com",
         }
     ],
     "require": {},
+
     "autoload": {
         "psr-4": {
             "Oppong\\Contact\\": "src/"
         }
-    },
+    }
 }
