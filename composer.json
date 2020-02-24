@@ -1,0 +1,18 @@
+{
+    "name": "oppong/contact",
+    "description": "A simple contact package",
+    "type": "Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oppong",
+            "email": "amponsahoppong@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Oppong\\Contact\\": "src/"
+        }
+    },
+}
